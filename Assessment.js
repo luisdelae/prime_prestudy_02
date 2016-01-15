@@ -2,7 +2,7 @@ var avengersMovie = {
     name: "Avengers",
     runtime: "143 mins",
     releaseYear: 2012,
-    director: "Joss Whedon"
+    "Director" : "Joss Whedon"
 };
 
 console.log(avengersMovie);
